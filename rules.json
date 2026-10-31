@@ -1,0 +1,144 @@
+{
+  "amt" : {
+    "exemption" : 7500000,
+    "insuranceDeathExemption" : 37400000,
+    "overseasIncomeThreshold" : 1000000,
+    "rate" : 0.2
+  },
+  "estate" : {
+    "adultAge" : 18,
+    "dependentRelativeDeduction" : 560000,
+    "disabledDeduction" : 6930000,
+    "exemption" : 13330000,
+    "funeralDeduction" : 1380000,
+    "linealDescendantDeduction" : 560000,
+    "lookbackYears" : 2,
+    "minorExtraPerYear" : 560000,
+    "parentDeduction" : 1380000,
+    "spouseDeduction" : 5530000,
+    "table" : {
+      "brackets" : [
+        {
+          "rate" : 0.1,
+          "upTo" : 56210000
+        },
+        {
+          "rate" : 0.15,
+          "upTo" : 112420000
+        },
+        {
+          "rate" : 0.2
+        }
+      ]
+    }
+  },
+  "gift" : {
+    "annualExemption" : 2440000,
+    "marriageGiftPerParent" : 1000000,
+    "table" : {
+      "brackets" : [
+        {
+          "rate" : 0.1,
+          "upTo" : 28110000
+        },
+        {
+          "rate" : 0.15,
+          "upTo" : 56210000
+        },
+        {
+          "rate" : 0.2
+        }
+      ]
+    }
+  },
+  "income" : {
+    "basicLivingCost" : 213000,
+    "basicLivingCostProvisional" : true,
+    "disabledDeduction" : 227000,
+    "dividendCreditCap" : 80000,
+    "dividendCreditRate" : 0.085,
+    "elderExemption" : 151500,
+    "personalExemption" : 101000,
+    "salaryDeduction" : 227000,
+    "savingsDeduction" : 270000,
+    "separateDividendRate" : 0.28,
+    "standardDeductionMarried" : 272000,
+    "standardDeductionSingle" : 136000,
+    "table" : {
+      "brackets" : [
+        {
+          "rate" : 0.05,
+          "upTo" : 610000
+        },
+        {
+          "rate" : 0.12,
+          "upTo" : 1380000
+        },
+        {
+          "rate" : 0.2,
+          "upTo" : 2770000
+        },
+        {
+          "rate" : 0.3,
+          "upTo" : 5190000
+        },
+        {
+          "rate" : 0.4
+        }
+      ]
+    }
+  },
+  "realEstate" : {
+    "rates" : [
+      {
+        "maxYears" : 2,
+        "rate" : 0.45
+      },
+      {
+        "maxYears" : 5,
+        "rate" : 0.35
+      },
+      {
+        "maxYears" : 10,
+        "rate" : 0.2
+      },
+      {
+        "rate" : 0.15
+      }
+    ],
+    "selfUseExemption" : 4000000,
+    "selfUseMinYears" : 6,
+    "selfUseRate" : 0.1
+  },
+  "sources" : [
+    {
+      "reference" : "財政部 114.11.27 台財稅字第11404671540號公告",
+      "title" : "115 年發生之繼承或贈與案件適用之免稅額、扣除額及課稅級距",
+      "url" : "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=f2a148bdd1614850be9fa56df8cc9d5c"
+    },
+    {
+      "reference" : "財政部 114.11.27 台財稅字第11404664070號公告",
+      "title" : "115 年度綜合所得稅免稅額、扣除額及課稅級距",
+      "url" : "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg031224/ch04/type3/gov30/num12/Eg.htm"
+    },
+    {
+      "reference" : "財政部 114.11.19 台財稅字第11404664830號公告",
+      "title" : "115 年度個人基本所得額免稅額及保險死亡給付免稅額"
+    },
+    {
+      "reference" : "所得基本稅額條例／納稅者權利保護法第 4 條",
+      "title" : "基本生活所需費用（115 年度尚未公告，暫用 114 年度金額）"
+    },
+    {
+      "reference" : "遺產及贈與稅法第 10 條之 2；中華郵政一年期定期儲金固定利率",
+      "title" : "他益信託折現利率"
+    }
+  ],
+  "taxYear" : 2026,
+  "trust" : {
+    "postalOneYearRate" : 0.01725,
+    "rateAsOf" : "2024-03 起"
+  },
+  "updatedAt" : "2026-10-31",
+  "version" : "2026.10.31"
+}
