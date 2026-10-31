@@ -88,6 +88,11 @@
       ]
     }
   },
+  "nhi" : {
+    "singlePaymentCap" : 10000000,
+    "singlePaymentThreshold" : 20000,
+    "supplementaryRate" : 0.0211
+  },
   "realEstate" : {
     "rates" : [
       {
@@ -132,6 +137,11 @@
     {
       "reference" : "遺產及贈與稅法第 10 條之 2；中華郵政一年期定期儲金固定利率",
       "title" : "他益信託折現利率"
+    },
+    {
+      "reference" : "全民健康保險法第 31 條；衛生福利部中央健康保險署",
+      "title" : "二代健保補充保險費費率 2.11%、單次給付 2 萬元起扣、上限 1,000 萬元",
+      "url" : "https://www.nhi.gov.tw/ch/dl-80097-39aa394983124e3880efd20a541d81d7-1.pdf"
     }
   ],
   "taxYear" : 2026,
@@ -140,5 +150,5 @@
     "rateAsOf" : "2024-03 起"
   },
   "updatedAt" : "2026-10-31",
-  "version" : "2026.10.31"
+  "version" : "2026.10.31.1"
 }
