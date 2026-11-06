@@ -1,5 +1,6 @@
 {
   "amt" : {
+    "cfcEarningsThreshold" : 7000000,
     "exemption" : 7500000,
     "insuranceDeathExemption" : 37400000,
     "overseasIncomeThreshold" : 1000000,

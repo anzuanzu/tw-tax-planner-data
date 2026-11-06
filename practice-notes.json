@@ -287,15 +287,15 @@
       "source" : "財政部 109.7.1「實務上死亡人壽保險金依實質課稅原則核課遺產稅案例及其參考特徵」，案號 最高行政法院 101 年度判字第 87 號",
       "summary" : "被繼承人於 88 年 8 月 2 日 死亡。87 年 12 月 24 日以躉繳方式投保還本終身壽險型保單 2 張共 26,586,000 元（投保時約 71 歲），其中包含貸款 2,075 萬元，指定配偶為受益人；投保時已患冠心症、心肌梗塞、中風及糖尿病等病症。",
       "tags" : [
-        "court",
-        "singlePremium",
-        "large",
+        "insurance",
+        "loan",
         "substance",
         "elderly",
-        "loan",
-        "insurance",
         "shortTerm",
-        "preExisting"
+        "large",
+        "preExisting",
+        "court",
+        "singlePremium"
       ],
       "title" : "最高行政法院 101 年度判字第 87 號",
       "url" : "https://www.nanshanlife.com.tw/nanshanlife/portal-api/File/572"
@@ -319,14 +319,14 @@
       "source" : "財政部 109.7.1「實務上死亡人壽保險金依實質課稅原則核課遺產稅案例及其參考特徵」，案號 最高行政法院 100 年度判字第 726 號",
       "summary" : "被繼承人於 94 年 6 月 29 日 死亡。90 年 9 月 22 日躉繳終身壽險 38,934,665 元，91 年 8 月 8 日再以本人為要保人及被保險人、指定受益人躉繳 184,148,760 元（投保時 81 歲）；91 年間腦部已有退化跡象；投保前已積欠銀行債務 8,000 萬元，復再舉借 6,400 萬元投保，合計 1.44 億元，且貸款利率高於保單投資報酬率。",
       "tags" : [
-        "insurance",
-        "substance",
-        "court",
         "singlePremium",
+        "court",
+        "substance",
+        "elderly",
         "large",
         "loan",
         "preExisting",
-        "elderly"
+        "insurance"
       ],
       "title" : "最高行政法院 100 年度判字第 726 號",
       "url" : "https://www.nanshanlife.com.tw/nanshanlife/portal-api/File/572"
@@ -348,12 +348,12 @@
       "source" : "財政部 109.7.1「實務上死亡人壽保險金依實質課稅原則核課遺產稅案例及其參考特徵」，案號 臺北高等行政法院 99 年度訴字第 616 號",
       "summary" : "被繼承人於 94 年 9 月 3 日 死亡。89 年 3 月 15 日經診斷罹患帕金森氏症，93 年 8 月至死亡日止處於重病狀態而無法自理事務；90 年 3 月 9 日投保終身壽險，保險金額 10,000,000 元，躉繳保險費 11,147,000 元。",
       "tags" : [
-        "singlePremium",
+        "court",
         "benefitNearPremium",
-        "insurance",
-        "preExisting",
+        "singlePremium",
         "substance",
-        "court"
+        "insurance",
+        "preExisting"
       ],
       "title" : "臺北高等行政法院 99 年度訴字第 616 號",
       "url" : "https://www.nanshanlife.com.tw/nanshanlife/portal-api/File/572"
@@ -377,14 +377,14 @@
       "source" : "財政部 109.7.1「實務上死亡人壽保險金依實質課稅原則核課遺產稅案例及其參考特徵」，案號 最高行政法院 100 年度判字第 1003 號",
       "summary" : "被繼承人於 95 年 3 月 6 日 死亡。93 年 12 月 14 日以本人為要保人及被保險人並指定受益人投保人壽保險（投保時約 84 歲），保險金額 20,000,000 元，躉繳保費 20,000,000 元（保險部分 600,000 元、投資部分 19,400,000 元），死亡日投資部分保單價值為 22,789,772 元。",
       "tags" : [
-        "substance",
-        "benefitNearPremium",
-        "large",
-        "insurance",
-        "singlePremium",
         "elderly",
+        "singlePremium",
         "shortTerm",
-        "court"
+        "benefitNearPremium",
+        "court",
+        "insurance",
+        "substance",
+        "large"
       ],
       "title" : "最高行政法院 100 年度判字第 1003 號",
       "url" : "https://www.nanshanlife.com.tw/nanshanlife/portal-api/File/572"
@@ -409,13 +409,13 @@
       "summary" : "被繼承人於 95 年 12 月 3 日 死亡。95 年 2 月至 6 月間以躉繳方式投保投資型保單 3 筆共 6,885,000 元（投保時 75 歲）；94 年 5 月 23 日智能檢查疑似極早期失智症，後續確認有記憶障礙，並有憂鬱症及腦中風；95 年 11 月 10 日有脊髓肌肉萎縮症併頸椎病變等無法治癒症狀。",
       "tags" : [
         "singlePremium",
-        "insurance",
         "substance",
         "elderly",
-        "court",
-        "preExisting",
         "large",
-        "shortTerm"
+        "court",
+        "shortTerm",
+        "preExisting",
+        "insurance"
       ],
       "title" : "最高行政法院 100 年度判字第 574 號",
       "url" : "https://www.nanshanlife.com.tw/nanshanlife/portal-api/File/572"
@@ -439,14 +439,14 @@
       "source" : "財政部 109.7.1「實務上死亡人壽保險金依實質課稅原則核課遺產稅案例及其參考特徵」，案號 高雄高等行政法院 100 年度訴字第 584 號",
       "summary" : "被繼承人於 96 年 6 月 8 日 死亡。93 年 1 月至 94 年 3 月間（投保時約 81 歲）陸續以本人為要保人及被保險人、指定其子為受益人，共投保 4 筆人壽保險，躉繳保險費 148,209,331 元，資金大部分來自出售持股及向繼承人借貸；生前有高血壓、糖尿病及前列腺癌服藥控制等病況。",
       "tags" : [
+        "singlePremium",
+        "loan",
+        "substance",
+        "elderly",
         "preExisting",
         "insurance",
         "court",
-        "loan",
-        "large",
-        "singlePremium",
-        "substance",
-        "elderly"
+        "large"
       ],
       "title" : "高雄高等行政法院 100 年度訴字第 584 號",
       "url" : "https://www.nanshanlife.com.tw/nanshanlife/portal-api/File/572"
@@ -468,12 +468,12 @@
       "source" : "財政部 109.7.1「實務上死亡人壽保險金依實質課稅原則核課遺產稅案例及其參考特徵」，案號 最高行政法院 100 年度判字第 1589 號",
       "summary" : "被繼承人於 96 年 11 月 19 日 死亡。92 年至 95 年間以躉繳方式投保投資型保單 4 張共 33,953,000 元（投保時 72 歲），其後於 95 年 2 月 23 日至 27 日因腸阻塞、低血鉀症及膽結石住院治療。",
       "tags" : [
-        "elderly",
-        "large",
-        "court",
         "substance",
+        "elderly",
+        "court",
+        "singlePremium",
         "insurance",
-        "singlePremium"
+        "large"
       ],
       "title" : "最高行政法院 100 年度判字第 1589 號",
       "url" : "https://www.nanshanlife.com.tw/nanshanlife/portal-api/File/572"
@@ -497,14 +497,14 @@
       "source" : "財政部 109.7.1「實務上死亡人壽保險金依實質課稅原則核課遺產稅案例及其參考特徵」，案號 高雄高等行政法院 99 年度訴字第 246 號",
       "summary" : "被繼承人於 97 年 10 月 6 日 死亡。96 年 1 月 26 日以躉繳方式投保投資型保單 25,000,000 元（投保時 77 歲），同年月 29 日向銀行貸款 25,000,000 元；95 年 4 月曾因慢性阻塞性肺病就醫，最終死因為肺炎併敗血性休克併多重器官衰竭。",
       "tags" : [
+        "elderly",
         "preExisting",
         "insurance",
-        "court",
-        "loan",
-        "large",
-        "singlePremium",
         "substance",
-        "elderly"
+        "singlePremium",
+        "loan",
+        "court",
+        "large"
       ],
       "title" : "高雄高等行政法院 99 年度訴字第 246 號",
       "url" : "https://www.nanshanlife.com.tw/nanshanlife/portal-api/File/572"
@@ -530,16 +530,16 @@
       "source" : "財政部 109.7.1「實務上死亡人壽保險金依實質課稅原則核課遺產稅案例及其參考特徵」，案號 最高行政法院 101 年度判字第 201 號（高雄高等行政法院 100 年度訴字第 142 號）",
       "summary" : "被繼承人於 97 年 12 月 19 日（肝癌） 死亡。死亡前 2 個月至 1 年 2 個月間密集投保（投保時約 71 歲），以本人為要保人及被保險人、指定繼承人為身故受益人，躉繳保險費 42,477,614 元，受益人所獲保險給付 44,358,797 元。",
       "tags" : [
+        "elderly",
         "preExisting",
+        "benefitNearPremium",
+        "substance",
+        "shortTerm",
+        "singlePremium",
         "insurance",
         "court",
-        "shortTerm",
-        "large",
-        "benefitNearPremium",
-        "singlePremium",
         "frequent",
-        "substance",
-        "elderly"
+        "large"
       ],
       "title" : "最高行政法院 101 年度判字第 201 號（高雄高等行政法院 100 年度訴字第 142 號）",
       "url" : "https://www.nanshanlife.com.tw/nanshanlife/portal-api/File/572"
@@ -563,12 +563,12 @@
       "summary" : "被繼承人於 98 年 3 月 5 日 死亡。93 年 4 月 13 日及 93 年 7 月 27 日至 9 月 1 日間以躉繳方式投保投資型保單 2 張及養老保險單 48 張共 1,800 萬元（投保時約 71 歲），投保前因多發性骨髓瘤住院，且有刻意隱瞞病情而規避遺產稅之故意。",
       "tags" : [
         "preExisting",
-        "insurance",
         "court",
-        "large",
-        "singlePremium",
         "substance",
-        "elderly"
+        "elderly",
+        "insurance",
+        "singlePremium",
+        "large"
       ],
       "title" : "臺北高等行政法院 100 年度訴字第 1517 號",
       "url" : "https://www.nanshanlife.com.tw/nanshanlife/portal-api/File/572"
@@ -591,13 +591,13 @@
       "source" : "財政部 109.7.1「實務上死亡人壽保險金依實質課稅原則核課遺產稅案例及其參考特徵」，案號 最高行政法院 97 年度判字第 675 號",
       "summary" : "被繼承人於 91 年 9 月 8 日 死亡。生前有鉅額財產 1 億 3 千 8 百餘萬元；88 年 4 月 13 日向銀行舉債 29,500,000 元，以躉繳方式投保終身壽險 7 筆（投保時 77 歲），指定子女 5 人為身故受益人，保險金額 20,950,000 元，躉繳保費 29,447,949 元；死亡後保險公司給付受益人合計 32,730,185 元，繼承人按受益比例清償銀行借款本息 37,164,150 元。",
       "tags" : [
-        "insurance",
+        "elderly",
+        "substance",
         "court",
-        "loan",
+        "insurance",
         "benefitNearPremium",
         "singlePremium",
-        "substance",
-        "elderly"
+        "loan"
       ],
       "title" : "最高行政法院 97 年度判字第 675 號",
       "url" : "https://www.nanshanlife.com.tw/nanshanlife/portal-api/File/572"
@@ -623,16 +623,16 @@
       "source" : "財政部 109.7.1「實務上死亡人壽保險金依實質課稅原則核課遺產稅案例及其參考特徵」，案號 最高行政法院 98 年度判字第 1145 號",
       "summary" : "被繼承人於 91 年 6 月 27 日 死亡。90 年 2 月 7 日至 4 月 15 日因腎動脈狹窄合併慢性腎衰竭住院治療，同年 4 月 17 日至 28 日定期門診血析；90 年 4 月 2 日以本人為要保人及被保險人、指定其孫為受益人，以舉債躉繳方式繳納保費 2,578 萬元（投保時 77 歲），身故保險理賠金 2,509 萬 9,455 元。",
       "tags" : [
-        "preExisting",
-        "insurance",
-        "court",
         "shortTerm",
+        "insurance",
+        "preExisting",
+        "elderly",
+        "court",
+        "substance",
+        "singlePremium",
         "loan",
         "large",
-        "benefitNearPremium",
-        "singlePremium",
-        "substance",
-        "elderly"
+        "benefitNearPremium"
       ],
       "title" : "最高行政法院 98 年度判字第 1145 號",
       "url" : "https://www.nanshanlife.com.tw/nanshanlife/portal-api/File/572"
@@ -656,14 +656,14 @@
       "source" : "財政部 109.7.1「實務上死亡人壽保險金依實質課稅原則核課遺產稅案例及其參考特徵」，案號 最高行政法院 97 年度判字第 81 號",
       "summary" : "被繼承人於 90 年 9 月 8 日 死亡。88 年 3 月 24 日經診斷罹患慢性阻塞性肺疾病、氣管支氣管及肺之惡性腫瘤等，90 年 3 月至 9 月間持續接受化學治療及放射線治療；89 年 3 月 3 日起至 90 年 8 月 21 日陸續以躉繳方式投保人壽保險，以本人為要保人及被保險人、指定其女為受益人，躉繳保費 3,526 萬元，身故理賠金約 3,602 萬 4,133 元。",
       "tags" : [
-        "preExisting",
-        "insurance",
-        "court",
         "shortTerm",
-        "large",
-        "benefitNearPremium",
+        "insurance",
+        "preExisting",
+        "court",
+        "substance",
         "singlePremium",
-        "substance"
+        "large",
+        "benefitNearPremium"
       ],
       "title" : "最高行政法院 97 年度判字第 81 號",
       "url" : "https://www.nanshanlife.com.tw/nanshanlife/portal-api/File/572"
@@ -687,14 +687,14 @@
       "source" : "財政部 109.7.1「實務上死亡人壽保險金依實質課稅原則核課遺產稅案例及其參考特徵」，案號 高雄高等行政法院 95 年度訴字第 1150 號",
       "summary" : "被繼承人於 94 年 1 月 3 日 死亡。92 年 1 月至 5 月經診斷為中風後之言語障礙和記憶障礙，住院期間意識狀態不清、自行處理事務能力差；92 年 6 月 18 日及 93 年 2 月 26 日投保變額萬能終身壽險（投保時 81 歲），以本人為要保人及被保險人、指定繼承人為受益人，繳納保險費計 25,750,000 元；投資型保單繼承日價值合計 24,519,474 元。",
       "tags" : [
-        "preExisting",
-        "insurance",
-        "court",
         "shortTerm",
-        "large",
-        "benefitNearPremium",
+        "insurance",
+        "preExisting",
+        "elderly",
+        "court",
         "substance",
-        "elderly"
+        "large",
+        "benefitNearPremium"
       ],
       "title" : "高雄高等行政法院 95 年度訴字第 1150 號",
       "url" : "https://www.nanshanlife.com.tw/nanshanlife/portal-api/File/572"
@@ -717,13 +717,13 @@
       "source" : "財政部 109.7.1「實務上死亡人壽保險金依實質課稅原則核課遺產稅案例及其參考特徵」，案號 高雄高等行政法院 97 年度訴字第 771 號",
       "summary" : "被繼承人於 95 年 9 月 18 日（肝癌及敗血性休克） 死亡。89 年間經診斷有肝炎、肝硬化及肝癌，89 年 5 月至 95 年 9 月間住院 6 次；92 年 12 月 8 日投保投資型保單（投保時 72 歲），以本人為要保人及被保險人、指定其子女為身故受益人，躉繳保險費 12,000,000 元，受益人所獲保險理賠金 12,085,845 元。",
       "tags" : [
-        "preExisting",
         "insurance",
+        "preExisting",
+        "elderly",
         "court",
-        "large",
-        "benefitNearPremium",
         "substance",
-        "elderly"
+        "large",
+        "benefitNearPremium"
       ],
       "title" : "高雄高等行政法院 97 年度訴字第 771 號",
       "url" : "https://www.nanshanlife.com.tw/nanshanlife/portal-api/File/572"
@@ -747,14 +747,14 @@
       "source" : "財政部 109.7.1「實務上死亡人壽保險金依實質課稅原則核課遺產稅案例及其參考特徵」，案號 臺北高等行政法院 97 年度訴字第 2275 號",
       "summary" : "被繼承人於 94 年 4 月 11 日 死亡。93 年 5 月間經診斷罹患肺小細胞癌；93 年 7 月 16 日投保人壽保險（投保時 72 歲），以本人為要保人及被保險人、指定繼承人為身故受益人，躉繳保費 30,000,000 元，受益人所獲身故保險給付 29,707,690 元。",
       "tags" : [
-        "preExisting",
-        "insurance",
-        "court",
         "shortTerm",
-        "large",
-        "benefitNearPremium",
+        "insurance",
+        "preExisting",
+        "court",
+        "substance",
         "singlePremium",
-        "substance"
+        "large",
+        "benefitNearPremium"
       ],
       "title" : "臺北高等行政法院 97 年度訴字第 2275 號",
       "url" : "https://www.nanshanlife.com.tw/nanshanlife/portal-api/File/572"
