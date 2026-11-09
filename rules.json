@@ -6,6 +6,13 @@
     "overseasIncomeThreshold" : 1000000,
     "rate" : 0.2
   },
+  "changeNotes" : [
+    {
+      "effective" : "115 年度",
+      "source" : "所得稅法第 15 條、第 17 條",
+      "title" : "綜所稅加入幼兒學前、長期照顧、房屋租金特別扣除額，並可比較夫妻分開計稅"
+    }
+  ],
   "estate" : {
     "adultAge" : 18,
     "dependentRelativeDeduction" : 560000,
@@ -59,7 +66,11 @@
     "dividendCreditCap" : 80000,
     "dividendCreditRate" : 0.085,
     "elderExemption" : 151500,
+    "longTermCare" : 180000,
     "personalExemption" : 101000,
+    "preschoolFirst" : 150000,
+    "preschoolOthers" : 225000,
+    "rentCap" : 180000,
     "salaryDeduction" : 227000,
     "savingsDeduction" : 270000,
     "separateDividendRate" : 0.28,
@@ -143,6 +154,11 @@
       "reference" : "全民健康保險法第 31 條；衛生福利部中央健康保險署",
       "title" : "二代健保補充保險費費率 2.11%、單次給付 2 萬元起扣、上限 1,000 萬元",
       "url" : "https://www.nhi.gov.tw/ch/dl-80097-39aa394983124e3880efd20a541d81d7-1.pdf"
+    },
+    {
+      "reference" : "所得稅法第 17 條（113 年度起幼兒學前 15 萬／22.5 萬、房租 18 萬；114 年度起長照 18 萬）",
+      "title" : "幼兒學前、長期照顧、房屋租金支出特別扣除額",
+      "url" : "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0340003"
     }
   ],
   "taxYear" : 2026,
@@ -150,6 +166,6 @@
     "postalOneYearRate" : 0.01725,
     "rateAsOf" : "2024-03 起"
   },
-  "updatedAt" : "2026-10-31",
-  "version" : "2026.10.31.1"
+  "updatedAt" : "2026-11-07",
+  "version" : "2026.11.07.1"
 }
