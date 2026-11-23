@@ -11,6 +11,11 @@
       "effective" : "115 年度",
       "source" : "所得稅法第 15 條、第 17 條",
       "title" : "綜所稅加入幼兒學前、長期照顧、房屋租金特別扣除額，並可比較夫妻分開計稅"
+    },
+    {
+      "effective" : "115 年度（116 年 5 月申報）",
+      "source" : "所得稅法第 17 條、第 126 條",
+      "title" : "受扶養未成年子女免稅額增加 50%，每人 10.1 萬提高為 15.15 萬"
     }
   ],
   "estate" : {
@@ -67,6 +72,7 @@
     "dividendCreditRate" : 0.085,
     "elderExemption" : 151500,
     "longTermCare" : 180000,
+    "minorChildExemption" : 151500,
     "personalExemption" : 101000,
     "preschoolFirst" : 150000,
     "preschoolOthers" : 225000,
@@ -159,6 +165,11 @@
       "reference" : "所得稅法第 17 條（113 年度起幼兒學前 15 萬／22.5 萬、房租 18 萬；114 年度起長照 18 萬）",
       "title" : "幼兒學前、長期照顧、房屋租金支出特別扣除額",
       "url" : "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0340003"
+    },
+    {
+      "reference" : "所得稅法第 17 條第 1 項第 1 款第 2 目、第 126 條（115 年 8 月修正，自 115 年 1 月 1 日施行）",
+      "title" : "受扶養未成年子女免稅額增加 50%（每人 15.15 萬）",
+      "url" : "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340003&flno=17"
     }
   ],
   "taxYear" : 2026,
@@ -166,6 +177,6 @@
     "postalOneYearRate" : 0.01725,
     "rateAsOf" : "2024-03 起"
   },
-  "updatedAt" : "2026-11-07",
-  "version" : "2026.11.07.1"
+  "updatedAt" : "2026-11-23",
+  "version" : "2026.11.23.1"
 }
